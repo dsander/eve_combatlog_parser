@@ -1,0 +1,147 @@
+------------------------------------------------------------
+  Gamelog
+  Listener: Galideeth
+  Session started: 2009.01.20 20:54:33
+------------------------------------------------------------
+[ 2009.01.20 20:54:54 ] (notify) Warping to Fensi VIII
+[ 2009.01.20 20:54:57 ] (notify) You cannot do that while warping.
+[ 2009.01.20 20:55:07 ] (notify) You cannot do that while warping.
+[ 2009.01.20 21:05:30 ] (notify) Warping to Fensi V
+[ 2009.01.20 21:06:20 ] (notify) Interference from the warp Injektor is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:06:22 ] (notify) Interference from the warp Orion is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:06:22 ] (notify) You failed to target nothing.
+[ 2009.01.20 21:06:23 ] (notify) You failed to target nothing.
+[ 2009.01.20 21:06:23 ] (notify) You failed to target nothing.
+[ 2009.01.20 21:06:23 ] (notify) You failed to target nothing.
+[ 2009.01.20 21:06:41 ] (notify) Ship stopping
+[ 2009.01.20 21:08:06 ] (question) You already have preset with this label, do you want to overwrite it?
+[ 2009.01.20 21:08:20 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:20 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:21 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:21 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:21 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:21 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:21 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:21 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:22 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:22 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:22 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:22 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:23 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:23 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:23 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:23 ] (notify) Interference from the warp Stargate (F-1CK) is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:08:26 ] (notify) Target is invulnerable.
+[ 2009.01.20 21:08:32 ] (notify) Destio &lt;-UPS-&gt;(Harbinger) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:08:33 ] (notify) Morzi &lt;-UPS-&gt;(Armageddon) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:08:33 ] (notify) Nuniki &lt;-UPS-&gt;(Typhoon) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:08:34 ] (notify) You have started trying to warp scramble Seepumuck &lt;-UPS-&gt;(Dominix).
+[ 2009.01.20 21:08:34 ] (notify) Seepumuck &lt;-UPS-&gt;(Dominix) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:08:37 ] (notify) Ayame Mishima &lt;-UPS-&gt;(Abaddon) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:08:39 ] (notify) For initiating combat your security status has been adjusted by -0.1344.
+[ 2009.01.20 21:08:39 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Destio &lt;-UPS-&gt;(Harbinger), doing 1305.0 damage.
+[ 2009.01.20 21:08:39 ] (notify) Enfop [BO.OM](Megathron) has started trying to warp scramble "Destio &lt;-UPS-&gt;(Harbinger)"
+[ 2009.01.20 21:08:39 ] (notify) brotula [BO.OM](Megathron) has started trying to warp scramble "Destio &lt;-UPS-&gt;(Harbinger)"
+[ 2009.01.20 21:08:41 ] (notify) Scytha &lt;-UPS-&gt;(Abaddon) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:08:43 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Destio &lt;-UPS-&gt;(Harbinger), doing 1268.6 damage.
+[ 2009.01.20 21:08:48 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Destio &lt;-UPS-&gt;(Harbinger), doing 1634.8 damage.
+[ 2009.01.20 21:08:52 ] (notify) For your part in the destruction of a Harbinger your security status has been adjusted by -0.5376.
+[ 2009.01.20 21:08:52 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Destio &lt;-UPS-&gt;(Harbinger), doing 932.8 damage.
+[ 2009.01.20 21:09:00 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Seepumuck &lt;-UPS-&gt;(Dominix), inflicting 1381.6 damage.
+[ 2009.01.20 21:09:01 ] (notify) brotula [BO.OM](Megathron) has started trying to warp scramble "Seepumuck &lt;-UPS-&gt;(Dominix)"
+[ 2009.01.20 21:09:04 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Seepumuck &lt;-UPS-&gt;(Dominix), doing 1180.1 damage.
+[ 2009.01.20 21:09:08 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Seepumuck &lt;-UPS-&gt;(Dominix), inflicting 1534.7 damage.
+[ 2009.01.20 21:09:10 ] (notify) Enfop [BO.OM](Megathron) has started trying to warp scramble "Seepumuck &lt;-UPS-&gt;(Dominix)"
+[ 2009.01.20 21:09:13 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Seepumuck &lt;-UPS-&gt;(Dominix), inflicting 1511.8 damage.
+[ 2009.01.20 21:09:13 ] (notify) Ko Tha [BO.OM](Stiletto) has started trying to warp scramble "Cartman Lee &lt;-UPS-&gt;(Falcon)"
+[ 2009.01.20 21:09:17 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Seepumuck &lt;-UPS-&gt;(Dominix), inflicting 1441.9 damage.
+[ 2009.01.20 21:09:22 ] (notify) Neutron Blaster Cannon II deactivates because its target, Stargate (F-1CK), is not locked.
+[ 2009.01.20 21:09:23 ] (notify) J5 Prototype Warp Disruptor I deactivates because its target, Stargate (F-1CK), is not locked.
+[ 2009.01.20 21:09:23 ] (notify) Fleeting Propulsion Inhibitor I deactivates because its target, Stargate (F-1CK), is not locked.
+[ 2009.01.20 21:09:25 ] (notify) Large 'Solace' I Remote Bulwark Reconstruction deactivates because its target, Berserker, is not locked.
+[ 2009.01.20 21:09:26 ] (notify) Medium Electrochemical Capacitor Booster I has nothing to fire.
+[ 2009.01.20 21:09:27 ] (notify) Loading the Capacitor Booster Charge into the Capacitor Booster; this will take approximately 10 seconds.
+[ 2009.01.20 21:09:40 ] (notify) Seepumuck &lt;-UPS-&gt;(Dominix) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:09:44 ] (notify) Enfop [BO.OM](Megathron) has started trying to warp scramble "Scytha &lt;-UPS-&gt;(Abaddon)"
+[ 2009.01.20 21:09:46 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Seepumuck &lt;-UPS-&gt;(Dominix), inflicting 1430.2 damage.
+[ 2009.01.20 21:09:47 ] (notify) You have started trying to warp scramble Seepumuck &lt;-UPS-&gt;(Dominix).
+[ 2009.01.20 21:09:49 ] (notify) Your attempt to target Typhoon failed.
+[ 2009.01.20 21:09:50 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Seepumuck &lt;-UPS-&gt;(Dominix), doing 1280.9 damage.
+[ 2009.01.20 21:09:54 ] (notify) Neutron Blaster Cannon II deactivates as Stargate (F-1CK) begins to explode.
+[ 2009.01.20 21:09:54 ] (notify) Ko Tha [BO.OM](Stiletto) has started trying to warp scramble "Cartman Lee &lt;-UPS-&gt;(Falcon)"
+[ 2009.01.20 21:09:56 ] (notify) J5 Prototype Warp Disruptor I deactivates as Stargate (F-1CK) begins to explode.
+[ 2009.01.20 21:09:56 ] (notify) Fleeting Propulsion Inhibitor I deactivates as Stargate (F-1CK) begins to explode.
+[ 2009.01.20 21:09:59 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Nuniki &lt;-UPS-&gt;(Typhoon), doing 2372.5 damage.
+[ 2009.01.20 21:10:00 ] (notify) You have started trying to warp scramble Nuniki &lt;-UPS-&gt;(Typhoon).
+[ 2009.01.20 21:10:02 ] (notify) Der Fangzahn [BO.OM](Cyclone) has started trying to warp scramble "Nuniki &lt;-UPS-&gt;(Typhoon)"
+[ 2009.01.20 21:10:04 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Nuniki &lt;-UPS-&gt;(Typhoon), inflicting 1758.3 damage.
+[ 2009.01.20 21:10:05 ] (notify) Scytha &lt;-UPS-&gt;(Abaddon) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:10:05 ] (notify) cavedog &lt;S-W&gt;(Tempest) has started trying to warp scramble "Nuniki &lt;-UPS-&gt;(Typhoon)"
+[ 2009.01.20 21:10:07 ] (notify) Ko Tha [BO.OM](Stiletto) has started trying to warp scramble "Cartman Lee &lt;-UPS-&gt;(Falcon)"
+[ 2009.01.20 21:10:07 ] (notify) Medium Electrochemical Capacitor Booster I has nothing to fire.
+[ 2009.01.20 21:10:07 ] (notify) Loading the Capacitor Booster Charge into the Capacitor Booster; this will take approximately 10 seconds.
+[ 2009.01.20 21:10:08 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Nuniki &lt;-UPS-&gt;(Typhoon), inflicting 1844.9 damage.
+[ 2009.01.20 21:10:11 ] (notify) brotula [BO.OM](Megathron) has started trying to warp scramble "Nuniki &lt;-UPS-&gt;(Typhoon)"
+[ 2009.01.20 21:10:12 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Nuniki &lt;-UPS-&gt;(Typhoon), inflicting 1758.9 damage.
+[ 2009.01.20 21:10:16 ] (notify) Scytha &lt;-UPS-&gt;(Abaddon) has started trying to warp scramble "cavedog &lt;S-W&gt;(Tempest)"
+[ 2009.01.20 21:10:17 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Nuniki &lt;-UPS-&gt;(Typhoon), doing 1248.2 damage.
+[ 2009.01.20 21:10:18 ] (notify) Thetys [BO.OM](Abaddon) has started trying to warp scramble "Scytha &lt;-UPS-&gt;(Abaddon)"
+[ 2009.01.20 21:10:21 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Nuniki &lt;-UPS-&gt;(Typhoon), doing 1551.5 damage.
+[ 2009.01.20 21:10:25 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Nuniki &lt;-UPS-&gt;(Typhoon), inflicting 1830.3 damage.
+[ 2009.01.20 21:10:27 ] (notify) You have started trying to warp scramble Scytha &lt;-UPS-&gt;(Abaddon).
+[ 2009.01.20 21:10:29 ] (notify) Der Fangzahn [BO.OM](Cyclone) has started trying to warp scramble "Scytha &lt;-UPS-&gt;(Abaddon)"
+[ 2009.01.20 21:10:30 ] (notify) Ko Tha [BO.OM](Stiletto) has started trying to warp scramble "Cartman Lee &lt;-UPS-&gt;(Falcon)"
+[ 2009.01.20 21:10:30 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Nuniki &lt;-UPS-&gt;(Typhoon), doing 892.9 damage.
+[ 2009.01.20 21:10:30 ] (notify) Fleeting Propulsion Inhibitor I deactivates as Nexus begins to explode.
+[ 2009.01.20 21:10:34 ] (notify) Medium Electrochemical Capacitor Booster I has nothing to fire.
+[ 2009.01.20 21:10:35 ] (notify) Loading the Capacitor Booster Charge into the Capacitor Booster; this will take approximately 10 seconds.
+[ 2009.01.20 21:10:36 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Scytha &lt;-UPS-&gt;(Abaddon), doing 2576.6 damage.
+[ 2009.01.20 21:10:38 ] (notify) cavedog &lt;S-W&gt;(Tempest) has started trying to warp scramble "Scytha &lt;-UPS-&gt;(Abaddon)"
+[ 2009.01.20 21:10:40 ] (notify) brotula [BO.OM](Megathron) has started trying to warp scramble "Scytha &lt;-UPS-&gt;(Abaddon)"
+[ 2009.01.20 21:10:41 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Scytha &lt;-UPS-&gt;(Abaddon), doing 1082.1 damage.
+[ 2009.01.20 21:10:45 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Scytha &lt;-UPS-&gt;(Abaddon), doing 1080.5 damage.
+[ 2009.01.20 21:10:47 ] (notify) The малая тень is too far away, you need to be within 95700 meters of it but are actually 149533 meters away.
+[ 2009.01.20 21:10:48 ] (notify) The малая тень is too far away, you need to be within 95700 meters of it but are actually 149534 meters away.
+[ 2009.01.20 21:10:50 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Scytha &lt;-UPS-&gt;(Abaddon), inflicting 1236.0 damage.
+[ 2009.01.20 21:10:54 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Scytha &lt;-UPS-&gt;(Abaddon), doing 953.9 damage.
+[ 2009.01.20 21:10:55 ] (notify) Interference from the warp Orion is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:10:57 ] (notify) Interference from the warp Orion is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:10:57 ] (notify) Der Fangzahn [BO.OM](Cyclone) has started trying to warp scramble "Scytha &lt;-UPS-&gt;(Abaddon)"
+[ 2009.01.20 21:10:58 ] (notify) Interference from the warp Orion is preventing your sensors from getting a target lock on them.
+[ 2009.01.20 21:10:58 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Scytha &lt;-UPS-&gt;(Abaddon), inflicting 1117.8 damage.
+[ 2009.01.20 21:11:03 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Scytha &lt;-UPS-&gt;(Abaddon), inflicting 1319.3 damage.
+[ 2009.01.20 21:11:04 ] (notify) Berserker is too far away to use your Large 'Solace' I Remote Bulwark Reconstruction on, it needs to be closer than 8,400 meters.
+[ 2009.01.20 21:11:05 ] (notify) Enfop [BO.OM](Megathron) has started trying to warp scramble "Scytha &lt;-UPS-&gt;(Abaddon)"
+[ 2009.01.20 21:11:07 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Scytha &lt;-UPS-&gt;(Abaddon), inflicting 1250.8 damage.
+[ 2009.01.20 21:11:11 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Scytha &lt;-UPS-&gt;(Abaddon), inflicting 1180.6 damage.
+[ 2009.01.20 21:11:16 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Scytha &lt;-UPS-&gt;(Abaddon), doing 1061.2 damage.
+[ 2009.01.20 21:11:20 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Scytha &lt;-UPS-&gt;(Abaddon), inflicting 1186.3 damage.
+[ 2009.01.20 21:11:21 ] (notify) You have started trying to warp scramble Scytha &lt;-UPS-&gt;(Abaddon).
+[ 2009.01.20 21:11:24 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II hits Scytha &lt;-UPS-&gt;(Abaddon), doing 1019.0 damage.
+[ 2009.01.20 21:11:29 ] (combat) <color=0xffbbbb00>Your group of Neutron Blaster Cannon II is well aimed at Scytha &lt;-UPS-&gt;(Abaddon), inflicting 1610.5 damage.
+[ 2009.01.20 21:11:33 ] (notify) Medium Electrochemical Capacitor Booster I has nothing to fire.
+[ 2009.01.20 21:11:33 ] (notify) Neutron Blaster Cannon II deactivates as Injektor begins to explode.
+[ 2009.01.20 21:11:33 ] (notify) Fleeting Propulsion Inhibitor I deactivates as Injektor begins to explode.
+[ 2009.01.20 21:11:33 ] (notify) Loading the Capacitor Booster Charge into the Capacitor Booster; this will take approximately 10 seconds.
+[ 2009.01.20 21:11:43 ] (notify) The Bond!..Vagabond! is too far away, you need to be within 95700 meters of it but are actually 102474 meters away.
+[ 2009.01.20 21:12:32 ] (notify) Medium Electrochemical Capacitor Booster I has nothing to fire.
+[ 2009.01.20 21:12:32 ] (notify) Loading the Capacitor Booster Charge into the Capacitor Booster; this will take approximately 10 seconds.
+[ 2009.01.20 21:13:34 ] (notify) Loading the Hybrid Ammo into the Hybrid Weapon; this will take approximately 10 seconds.
+[ 2009.01.20 21:13:47 ] (question) Are you sure about it?
+[ 2009.01.20 21:14:20 ] (notify) Auto Reload failed, cause there was no ammo found of same type
+[ 2009.01.20 21:14:20 ] (notify) Medium Electrochemical Capacitor Booster I has nothing to fire.
+[ 2009.01.20 21:14:31 ] (notify) Quad LiF Fueled I Booster Rockets requires 576.0 units of charge. The capacitor has only 345.2 units.
+[ 2009.01.20 21:14:32 ] (notify) Quad LiF Fueled I Booster Rockets requires 576.0 units of charge. The capacitor has only 355.1 units.
+[ 2009.01.20 21:14:45 ] (notify) Large 'Solace' I Remote Bulwark Reconstruction requires 201.6 units of charge. The capacitor has only 51.2 units.
+[ 2009.01.20 21:14:54 ] (notify) 25.0 units would be required to complete this operation. Destination container only has 0.0 units available.
+[ 2009.01.20 21:14:55 ] (notify) 25.0 units would be required to complete this operation. Destination container only has 0.0 units available.
+[ 2009.01.20 21:16:13 ] (info) 416.0 cargo units would be required to complete this operation. Destination container only has 312.75 units available.
+[ 2009.01.20 21:16:22 ] (notify) Warping to Stargate (Ami)
+[ 2009.01.20 21:16:58 ] (notify) Session change already in progress.
+[ 2009.01.20 21:16:58 ] (notify) Session change already in progress.
+[ 2009.01.20 21:16:59 ] (notify) Session change already in progress.
+[ 2009.01.20 21:17:00 ] (notify) Session change already in progress.
+[ 2009.01.20 21:17:00 ] (notify) Session change already in progress.
+[ 2009.01.20 21:17:00 ] (notify) Session change already in progress.
+[ 2009.01.20 21:17:00 ] (None) Jumping to Stargate (Fensi) in Ami solarsystem
+[ 2009.01.20 21:17:00 ] (notify) Session change already in progress.
